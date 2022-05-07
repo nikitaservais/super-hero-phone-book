@@ -1,0 +1,10 @@
+Spiderman;New York;(444)-333-1234;grimper sur les murs,lancer des toiles,une force surhumaine;65
+Superman;Metropolis;(678)-530-3009;une force surhumaine,des yeux lasers,savoir voler,être invulnérable,voir à travers les murs;99
+Iron Man;New York;(444)-276-4397;son intelligence démesurée,sa prothèse de Iron Man en alliage de titanium;84
+Batman;Gotham City;(138)-412-7841;c'est Batman (tout est dit),il a Alfred;100
+Daredevil;New York;(444)-453-5438;sens hyperdéveloppés excepté la vue,expert en arts martiaux;53
+Green Lantern;Gotham City;(138)-680-1275;une bague qui donne une forme physique à la volonté de son porteur;42
+Aquaman;Atlantis;(200)-381-7619;savoir respirer sous l'eau,sens hyperdéveloppés,force surhumaine,parler avec les poissons;72
+Thor;Asgard;(444)-676-2325;force surhumaine,le marteau Mjolnir,contrôler la foudre;95
+Wolverine;Salem Center;(444)-346-3096;sens hyperdévelopés,expert en combat à mains nues,facteur de guérison ultra-augmenté,squelette en adamantium;89
+Supergirl;Metropolis;(678)-467-9327;une force surhumaine,des yeux lasers,savoir voler,être invulnérable,voir à travers les murs;99
